@@ -23,4 +23,11 @@ Vše probíhá v jednoduchém textovém menu v terminálu
 
 # Jak aplikaci spustit
  - Otevřít projekt v GitHub Codespaces (doporučeno)
+   
 Nemusíte nic instalovat
+
+ 1. Klikněte na Code -> Codespaces -> Create codespace on main
+ 2. V otevřeném prostředí spusťte v terminálu :
+    javac Main.java EvidencePojistenych.java Pojisteny.java
+    java Main
+
