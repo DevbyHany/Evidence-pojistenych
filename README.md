@@ -8,3 +8,15 @@ Aplikace vznikla jako tréninkový projekt pro procvičení objektového program
 - Přidání nové osoby
 
   Uživatel zadá jméno, příjmení, věk a telefonní číslo.
+
+- Vyhledání osoby
+
+  Uživatel může vyhledat libovolného pojištěného podle jména a příjmení.
+
+- Zobrazení všech pojištěných
+
+  Výpis kompletního seznamu uložených v seznamu
+
+- Ukončení programu
+
+Vše probíhá v jednoduchém textovém menu v terminálu
