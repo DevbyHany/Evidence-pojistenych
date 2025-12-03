@@ -6,4 +6,5 @@ Aplikace vznikla jako tréninkový projekt pro procvičení objektového program
 
 # Funkce aplikace
 - Přidání nové osoby
+
 Uživatel zadá jméno, příjmení, věk a telefonní číslo.
