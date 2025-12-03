@@ -28,6 +28,6 @@ Nemusíte nic instalovat
 
  1. Klikněte na Code -> Codespaces -> Create codespace on main
  2. V otevřeném prostředí spusťte v terminálu :
-    javac Main.java EvidencePojistenych.java Pojisteny.java
-    java Main
+    a)javac Main.java EvidencePojistenych.java Pojisteny.java
+    b)java Main
 
