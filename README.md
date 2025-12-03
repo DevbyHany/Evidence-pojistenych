@@ -20,3 +20,7 @@ Aplikace vznikla jako tréninkový projekt pro procvičení objektového program
 - Ukončení programu
 
 Vše probíhá v jednoduchém textovém menu v terminálu
+
+# Jak aplikaci spustit
+ - Otevřít projekt v GitHub Codespaces (doporučeno)
+Nemusíte nic instalovat
