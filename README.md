@@ -30,5 +30,6 @@ Nemusíte nic instalovat
  2. V otevřeném prostředí spusťte v terminálu :
 
     a)javac Main.java EvidencePojistenych.java Pojisteny.java
+    
     b)java Main
 
