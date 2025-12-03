@@ -4,6 +4,14 @@ Aplikace vznikla jako tréninkový projekt pro procvičení objektového program
 
 ---
 
+# Technologie
+- Java 17+
+- OOP (třídy, objekty, metody)
+- List/ArrayList
+- Jednoduché konzolové rozhraní
+
+---
+
 # Funkce aplikace
 - Přidání nové osoby
 
